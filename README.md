@@ -3,8 +3,6 @@
   <h1>Netflix Content Catalog Analysis</h1>
 </div>
 
-# 🎬 Netflix Content Catalog Analysis
-
 ## 📖 Project Overview
 This project performs a comprehensive, end-to-end SQL analysis on a Netflix Movies and TV Shows dataset. The objective is to demonstrate proficiency in data retrieval, cleaning, aggregation, and advanced analytics (CTEs and Window Functions) to uncover actionable business insights regarding content distribution, catalog growth, and audience targeting.
 
@@ -31,5 +29,8 @@ Through structured SQL analysis, the following trends were identified:
 4. Execute `queries.sql` sequentially to walk through the 5 levels of data analysis.
 
 ---
-**Created by:** [Diwakar]  
-**Connect with me:** [linkedin.com/in/diwakar2000]
+<div align="center">
+  <strong>Created by:</strong> [Diwakar] <br>
+  <strong>Connect with me:</strong> 
+  <a href="YOUR_LINKEDIN_URL">inkedin.com/in/diwakar2000</a> | 
+</div>
