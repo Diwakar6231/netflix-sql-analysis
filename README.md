@@ -32,5 +32,5 @@ Through structured SQL analysis, the following trends were identified:
 <div align="center">
   <strong>Created by:</strong> [Diwakar] <br>
   <strong>Connect with me:</strong> 
-  <a href="YOUR_LINKEDIN_URL">inkedin.com/in/diwakar2000</a> | 
+  <a href="YOUR_LINKEDIN_URL">linkedin.com/in/diwakar2000</a> | 
 </div>
